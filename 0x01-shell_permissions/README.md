@@ -1,1 +1,1 @@
-script that switches the current user to the user
+script that adds execute permission to all subdirectories of the current directory for the owner
